@@ -10,7 +10,7 @@ A simple program to automatically activate gifts from discord.
 
 | Plugin | README |
 | ------ | ------ |
-| Discum | [https://pypi.org/project/discum/][PlDb] |
+| Discum | https://pypi.org/project/discum/ |
 
 
 ### Installation
