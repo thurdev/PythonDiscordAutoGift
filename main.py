@@ -4,7 +4,7 @@ from client import Client
 
 client = Client()
 
-client.login("MzA3NDUwODMwNTk1MDMxMDQx.XzA6TQ.pyJ1NvVRQ39vKWHXe6_X1DuMA_4")
+client.login("Your TOKEN")
 
 @client.ready
 def onReady():
